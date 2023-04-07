@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  h1 {
+    font-size: 3rem;
+    margin-top: 2rem;
+    text-shadow: 2px 2px #333;
+  }
+  p {
+    font-size: 2rem;
+    margin-top: 1.5rem;
+    text-shadow: 2px 2px #333;
+  }
+
+.radical {
+    background: linear-gradient(to right, #ff0000, #0000b4b0);
+  }
